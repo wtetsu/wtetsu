@@ -1,12 +1,4 @@
-Some of my works (not only OSS):
 
-| Language              | Work                                                                                                                                                                                                                    |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| JavaScript/TypeScript | [📘Mouse Dictionary](https://github.com/wtetsu/mouse-dictionary), [🛠️deinja](https://github.com/wtetsu/deinja), [🛠️web-frontend-starter](https://github.com/wtetsu/web-frontend-starter)                                                                                  |
-| Go                    | [🔧Gaze](https://github.com/wtetsu/gaze), [🔧SillyCd](https://github.com/wtetsu/sillycd)                                                                                                                                    |
-| D language            | [🎮Irisu Syndrome!](https://irisusyndrome.fandom.com/wiki/Kyouko_Irisu), [🎮Murasaki](https://store.steampowered.com/app/392030/Murasaki/), [🎮Murasaki Tsurugi](https://store.steampowered.com/app/865060/Murasaki_Tsurugi/) |
-| C++                   | [🎮LoveMochi](http://katatema.main.jp/love/manual.html)                                                                                                                                                                   |
-| Objective-C           | [🎮LoveMochi for iOS](http://katatema.main.jp/lovemochi/index.html)                                                                                                                                                       |
-| Ruby                  | [🎮Demon King Chronicle](https://playism.com/product/demon-king-chronicle)                                                                                                                                                |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wtetsu&show_icons=true)
 
-Others languages: Java, C#, Python. A normal server side engineer.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtetsu&hide=javascript,html,css&langs_count=6&layout=compact)](https://github.com/wtetsu/github-readme-stats)
