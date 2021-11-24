@@ -1,2 +1,2 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wtetsu&show_icons=false&hide_title=true&count_private=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtetsu&hide=javascript,html,css&langs_count=6&layout=compact&line_height" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtetsu&hide=javascript,html,css&langs_count=6&layout=compact&line_height&count_private=true)](https://github.com/wtetsu/github-readme-stats)
